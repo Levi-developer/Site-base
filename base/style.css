@@ -1,0 +1,16 @@
+* { 
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(91, 212, 91);
+}
+
+.titulo {
+    padding: 20px;
+}
+
+
+

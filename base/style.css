@@ -9,8 +9,21 @@ body {
 }
 
 .titulo {
-    padding: 20px;
+    color: white;
 }
 
+.titulo2 {
+    color: rgb(11, 103, 11);
+    font-family: ;
+}
+
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
 
 

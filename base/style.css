@@ -16,12 +16,15 @@ body {
 .titulo {
     color: white;
     font-family: "Nerko One", cursive;
+    position: relative;
+    top: -30px;
 }
 
 .titulo2 {
     color: rgb(11, 103, 11);
     font-family: "Sevillana", cursive;
-    
+    position: relative;
+    top: -50px
 }
 
 
@@ -32,7 +35,9 @@ h2 {
 p {
     color: white;
     font-family: "Oswald", sans-serif;
-
 }
 
-
+.text {
+    width: 500px;
+    left: 20
+}
